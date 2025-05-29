@@ -20,6 +20,7 @@ Each app follows a minimal, consistent UI like Adobe’s, but with:
 | `Gd`      | **Graphic Designer**  | Vector & image design (like Illustrator)    |
 | `Ve`      | **Video Editor**      | Timeline-based video editing                |
 | `Cw`      | **Copywriter**       | Clean, distraction-free writing tool        |
+| `Pm`      | **Photo Manipulator**       | Image Manipulation program        |
 
 ---
 
