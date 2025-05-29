@@ -28,7 +28,6 @@ Each app follows a minimal, consistent UI like Adobe’s, but with:
 *  **Fast and lightweight**
 *  **Minimal, intuitive UI**
 *  **Modular and cross-platform**
-*  **Made for creators, not corporations**
 *  **Visually consistent (like Adobe, but open)**
 
 ---
