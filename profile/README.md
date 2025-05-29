@@ -16,7 +16,7 @@ Each app follows a minimal, consistent UI like Adobe’s, but with:
 | Icon         | Name                  | Purpose                                     |
 | ------------ | --------------------- | ------------------------------------------- |
 | `DrC`     | **Darkroom Classic**  | RAW photo editor & color grader             |
-| `DtP`     | **Desktop Publisher** | Page layout, books, and print-ready PDFs    |
+| `Dp`     | **Desktop Publisher** | Page layout, books, and print-ready PDFs    |
 | `Gd`      | **Graphic Designer**  | Vector & image design (like Illustrator)    |
 | `Ve`      | **Video Editor**      | Timeline-based video editing                |
 | `Cw`      | **Copywriter**       | Clean, distraction-free writing tool        |
